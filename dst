@@ -1,0 +1,3 @@
+#! /bin/bash
+cd /home/amir/.config/builds/dwm
+./auto.sh

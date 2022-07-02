@@ -1,0 +1,46 @@
+core/gcc 11.2.0-4 (base-devel)
+    The GNU Compiler Collection - C and C++ frontends
+core/gcc-ada 11.2.0-4
+    Ada front-end for GCC (GNAT)
+core/gcc-d 11.2.0-4
+    D frontend for GCC
+core/gcc-fortran 11.2.0-4
+    Fortran front-end for GCC
+core/gcc-go 11.2.0-4
+    Go front-end for GCC
+core/gcc-libs 11.2.0-4 [installed]
+    Runtime libraries shipped by GCC
+core/gcc-objc 11.2.0-4
+    Objective-C front-end for GCC
+core/lib32-gcc-libs 11.2.0-4 (multilib-devel)
+    32-bit runtime libraries shipped by GCC
+core/libgccjit 11.2.0-4
+    Just-In-Time Compilation with GCC backend
+community/aarch64-linux-gnu-gcc 11.2.0-1
+    The GNU Compiler Collection - cross compiler for ARM64 target
+community/arduino-avr-core 1.8.3-1
+    Arduino AVR core with upstream avr-gcc and avrdude
+community/arm-none-eabi-gcc 11.2.0-1
+    The GNU Compiler Collection - cross compiler for ARM EABI (bare-metal) target
+community/avr-gcc 11.2.0-1
+    The GNU AVR Compiler Collection
+community/colorgcc 1.4.5-2
+    A Perl wrapper to colorize the output of compilers with warning/error messages matching the gcc output format
+community/ghdl-gcc 1.0.0-5
+    VHDL simulator (GCC backend)
+community/lcov 1.15-3
+    front-end for GCC’s coverage testing tool gcov
+community/libgsystem 2015.2+4+gd606bec-3
+    "Copylib" for system service modules using GLib with GCC
+community/lm32-elf-gcc 11.1.0-1
+    The GNU Compiler Collection - cross compiler for LatticeMico32 (bare-metal) target
+community/mingw-w64-gcc 11.2.0-1 (mingw-w64-toolchain mingw-w64)
+    Cross GCC for the MinGW-w64 cross-compiler
+community/nds32le-elf-gcc 11.1.0-1
+    The GNU Compiler Collection - cross compiler for Andes 32 little-endian (bare-metal) target
+community/or1k-elf-gcc 11.1.0-1
+    The GNU Compiler Collection - cross compiler for OpenRISC 1000 (bare-metal) target
+community/riscv64-elf-gcc 11.1.0-1
+    The GNU Compiler Collection - cross compiler for RISCV64 (bare-metal) target
+community/riscv64-linux-gnu-gcc 11.1.0-1 (risc-v)
+    Cross compiler for 32-bit and 64-bit RISC-V
